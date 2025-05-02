@@ -1,4 +1,4 @@
-💫 About Me:
+## 💫 About Me:
 Just a NewBie, Working to Caught Up.<br>Python Developer/Telegram Bot Developer<br>Learning "Weeb"<br>Learning "Android"<br>Learning "AI/MI"<br>Learning "Life"<br>
 
 
