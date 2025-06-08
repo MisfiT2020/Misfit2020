@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://github.com/MisfiT2020/wpt/blob/b4082e95b039b459b81613b91493d6970b391573/110628930%201.png" width="200" alt="Profile Image" />
   
-  <h1>Misfit</h1>
+  <h1>Misfit/Exdian</h1>
 </div>
 
 Welcome! I'm an aspiring developer continuously honing my skills in Python, bot development, Android, and AI/ML. This Readme hosts my personal projects, showcase of my work, and learning journey.
