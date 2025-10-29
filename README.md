@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://github.com/MisfiT2020/wpt/blob/b4082e95b039b459b81613b91493d6970b391573/110628930%201.png" width="200" alt="Profile Image" />
+  <img src="https://github.com/MisfiT2020/src/blob/37dfd88b0bfe973f815ea55dc57e2bf762961fe5/profile.png" width="200" alt="Profile Image" />
   
   <h1>Misfit/Exdian</h1>
 </div>
